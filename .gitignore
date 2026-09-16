@@ -1,0 +1,6 @@
+﻿.ipynb_checkpoints/
+*.fits
+*.zip
+Synthetic Spectra/
+Lab3/ASSETS_data/
+Lab2/Lab2_File/
